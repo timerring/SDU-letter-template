@@ -1,0 +1,11 @@
+# LaTeX compiled file
+*.aux
+*.log
+*.synctex.gz
+# other temp 
+*.toc
+*.out
+*.bbl
+*.blg
+# specific for MacOS
+.DS_Store
