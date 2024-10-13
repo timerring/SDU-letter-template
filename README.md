@@ -1,6 +1,8 @@
 # SDU-letter-template
 A LaTeX Template of Recommendation Letter for Shandong University.
 
+山东大学推荐信Latex模板。
+
 ## Demo
 
 ![](sample.png)
